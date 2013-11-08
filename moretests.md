@@ -16,3 +16,10 @@
 
 
 `this is how i make something have a box and a different shade of background`
+
+
+I want to try out the horizontal rule...
+----
+i guess it will put lines between these lines of text...
+******
+who knows if it will work proplery
