@@ -31,3 +31,13 @@ What about a check box list?
 - [] thing 1
 - [] thing 2
 - [] thing 3 
+
+I followed the github instructions perfectly on that. why didn't it **WORK**? 
+
+Perhaps
+
+-[ ] thing 1
+-[ ] thing 2
+-[ ] thing 3
+-[ ] incomplete
+-[x] completed 
