@@ -4,8 +4,8 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-
+```
 |Item          | Cost        | Date   |
 |--------------|:-------------:|--------:|
 |rent          | 50000000000 | 11/1/13|
-|car payment  | 654654654684 | 11/24/13|
+|car payment  | 654654654684 | 11/24/13| ```
