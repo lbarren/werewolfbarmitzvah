@@ -41,3 +41,10 @@ Perhaps
 -[ ] thing 3
 -[ ] incomplete
 -[x] completed 
+
+At least the first one made it into a list.....
+
+- [ ] thing
+- [ ] thing 2
+- [ ] thing 3
+- [ ] all the things
