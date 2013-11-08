@@ -2,8 +2,12 @@ This is just a practice repository so that I don't feel like [this dog](http://i
 
 I am going to make a *table*.
 
+##let's make a list! ##
 
-##Table##
+1. A thing
+2. Another thing
+  *a sub thing
+3. A third thing.
 
-tables | are | awesome
-test   | test | test
+
+`so many things!` 
