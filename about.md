@@ -24,3 +24,10 @@ I am going to make a *list*.
 ~~the above lists worked~~
 
 the lists did not work
+
+
+What about a check box list?
+
+- [] thing 1
+- [] thing 2
+- [] thing 3 
