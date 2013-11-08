@@ -48,3 +48,9 @@ At least the first one made it into a list.....
 - [ ] thing 2
 - [ ] thing 3
 - [ ] all the things
+- 
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
